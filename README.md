@@ -45,11 +45,6 @@ Bash · Python · JavaScript/Node · Go · Git · (LLM prompting / agent orchest
 
 ---
 
-### 🤝 Open To
-Ideas / lightweight contributions / LLM workflow discussions
-
-### 💬 Contact
-Prefer: repo Issues / Discussions
 
 ### 🧭 Motto
 Automate the boring. Amplify the intelligent step. Iterate.
