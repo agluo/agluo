@@ -18,15 +18,6 @@ A developer passionate about automation and scripting.
 - 🛠️ Building: Internal scripts to streamline dev + deployment pipelines
 - 💡 Philosophy: Small, composable automation blocks + intelligent orchestration
 
-### 🗂️ Featured Repositories
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [ql-script-hub](https://github.com/agluo/ql-script-hub) | Curated automation / task scripts hub | Bash / JS / Python |
-| [ClashSUB](https://github.com/agluo/ClashSUB) | Subscription utilities & rulesets | Networking / YAML |
-| [subs (fork)](https://github.com/tsarsie/subs) | Subscription tooling experiments | Go / Scripts |
-
-> Want something highlighted differently? Open an issue or start a discussion in the repo.
-
 ### 🧠 LLM & Automation Focus
 Current areas of experimentation:
 - Multi-agent task routing (planner / executor patterns)
