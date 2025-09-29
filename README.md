@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm agluo!
 
-A developer passionate about automation and scripting.//
+A developer passionate about automation and scripting.
 **🤖 Currently diving deep into the world of AI, especially the intersection of Large Language Models (LLMs) and automated workflows.**
 
 - 🔭 I’m currently maintaining my project [ql-script-hub](https://github.com/agluo/ql-script-hub)...
