@@ -39,7 +39,7 @@ Bash · Python · JavaScript/Node · Go · Git · (LLM prompting / agent orchest
 ### 🏆 Trophies
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=agluo&theme=onestar&column=6&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](trophy.agluo.com/?username=agluo&theme=onestar&column=6&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
