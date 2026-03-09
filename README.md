@@ -23,7 +23,7 @@ Automation & scripting enthusiast now focusing on practical LLM + agent workflow
 - Error / retry strategies for long chains
 - Token economy + lean memory buffers
 
-### 🛠️ Stack (core)
+### 🛠��� Stack (core)
 Bash · Python · JavaScript/Node · Go · Git · (LLM prompting / agent orchestration)
 
 ---
@@ -39,12 +39,11 @@ Bash · Python · JavaScript/Node · Go · Git · (LLM prompting / agent orchest
 ### 🏆 Trophies
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=agluo&theme=onestar&column=6&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://trophy.agluo.com/?username=agluo&theme=onestar&column=6&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
-
 
 ### 🧭 Motto
 Automate the boring. Amplify the intelligent step. Iterate.
