@@ -31,8 +31,8 @@ Bash · Python · JavaScript/Node · Go · Git · (LLM prompting / agent orchest
 ### 📊 Stats
 <div align="center">
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=agluo&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/agluo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agluo&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/agluo)
+[![Stats](https://stars.agluo.com/api?username=agluo&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/agluo)
+[![Top Langs](https://stars.agluo.com/api/top-langs/?username=agluo&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/agluo)
 
 </div>
 
